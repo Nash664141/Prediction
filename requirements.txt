@@ -1,0 +1,12 @@
+websocket-client
+threading
+numpy
+pandas
+requests
+scikit-learn
+xgboost
+lightgbm
+catboost
+tensorflow
+keras
+joblib
